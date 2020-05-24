@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://sumanssaurabh.github.io/reactjs-todo-app/static/js/main.29424bf3.chunk.js",
+    "main.js.map": "https://sumanssaurabh.github.io/reactjs-todo-app/static/js/main.29424bf3.chunk.js.map",
+    "runtime-main.js": "https://sumanssaurabh.github.io/reactjs-todo-app/static/js/runtime-main.8fb9dd9f.js",
+    "runtime-main.js.map": "https://sumanssaurabh.github.io/reactjs-todo-app/static/js/runtime-main.8fb9dd9f.js.map",
+    "static/js/2.a642793a.chunk.js": "https://sumanssaurabh.github.io/reactjs-todo-app/static/js/2.a642793a.chunk.js",
+    "static/js/2.a642793a.chunk.js.map": "https://sumanssaurabh.github.io/reactjs-todo-app/static/js/2.a642793a.chunk.js.map",
+    "index.html": "https://sumanssaurabh.github.io/reactjs-todo-app/index.html",
+    "precache-manifest.4a6ac5e676f486e7aad0f34ec3cf3f86.js": "https://sumanssaurabh.github.io/reactjs-todo-app/precache-manifest.4a6ac5e676f486e7aad0f34ec3cf3f86.js",
+    "service-worker.js": "https://sumanssaurabh.github.io/reactjs-todo-app/service-worker.js",
+    "static/js/2.a642793a.chunk.js.LICENSE.txt": "https://sumanssaurabh.github.io/reactjs-todo-app/static/js/2.a642793a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fb9dd9f.js",
+    "static/js/2.a642793a.chunk.js",
+    "static/js/main.29424bf3.chunk.js"
+  ]
+}
