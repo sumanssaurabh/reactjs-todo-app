@@ -31,8 +31,8 @@ export default class AddTodo extends Component {
           onChange={this.handleChange}
         />
         <input
-          type='submit'
           value='Submit'
+          type='submit'
           className='btn'
           style={{ flex: '1' }}
         />
