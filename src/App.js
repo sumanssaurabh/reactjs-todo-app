@@ -4,6 +4,8 @@ import Todos from './components/Todos';
 import Header from './components/layout/Header';
 import AddTodo from './components/AddTodo';
 
+import './App.css'
+
 export default class App extends Component {
   state = {
     todos: [
@@ -65,7 +67,7 @@ export default class App extends Component {
   render() {
     return (
       <div className='App'>
-        <div className='container'>
+        {/* <div className='container'> */}
           <Header />
           <AddTodo addTodo={this.addTodo} />
           <Todos
@@ -73,7 +75,7 @@ export default class App extends Component {
             markComplete={this.markComplete}
             delTodo={this.delTodo}
           />
-        </div>
+        {/* </div> */}
       </div>
     );
   }
